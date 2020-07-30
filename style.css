@@ -1,0 +1,50 @@
+html{
+    background-color: #f002;
+}
+div{
+    margin-left: 36%;
+    margin-right: 59%;
+    margin-top: 9%;
+    height: 304px;
+    width: 334px;
+}
+
+div ul{
+    list-style-type: none;
+}
+div ul li a{
+    padding: 20px;
+
+}
+
+div ul li{
+    font-size: 30px;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Noto Sans,Ubuntu,Droid Sans,Helvetica Neue,sans-serif;
+    margin-left: 50px;
+}
+h1{
+    font-size: 60px;
+    margin-left: 72px;
+}
+
+ button{
+    margin-top: 5px;
+    margin-left: 99px;
+    height: 33px;
+    width: 99px;
+}
+
+input{
+    
+        height: 50px;
+        width: 300px;
+}
+
+ .box{
+    background-color: rgb(241, 181, 223);
+    text-align:center;
+    border-width: 10;
+    border-color:yellow;
+    height: 56px;
+    margin-left: -11px;
+}
